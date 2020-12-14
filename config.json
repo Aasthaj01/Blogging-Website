@@ -1,0 +1,27 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/code_log",
+    "prod_uri": "mysql://root:@localhost/code_log",
+    "tw_url": "https://twitter.com/code_log",
+    "fb_url": "https://facebook.com/code_log",
+    "gh_url": "https://github.com/code_log",
+    "blog_name": "Code Log",
+    "tag_line": "A place where coders or programmers can blog",
+    "copyright_tag": "Code Log",
+    "gmail-user": "codelog725@gmail.com",
+    "gmail-password": "coding123",
+    "about_text": "Hi, I am Alexa. I am a software engineer and a technical blogger. I strongly believe engineering is all about solving simple problems and essentially making life better and inventions are like time-capsules that preserve creativity and imagination passed down to us across generations. On the other hand, technical blogging is a great way to share your expertise while building a potentially valuable readership. It can help you to document projects, or provide guidance to other web users. You can also monetize your content, or use your blog to market your services.",
+    "post_num": 5,
+    "login_image": "login.svg",
+    "admin_user":"aastha",
+    "admin_password": "subscribe",
+    "upload_location": "C:\\Users\\luhad\\PycharmProjects\\Flask_tutorial\\static\\img>"
+
+
+
+
+
+  }
+}
